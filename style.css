@@ -12,3 +12,30 @@
     color: black;
     box-shadow: 5px 5px 5px rgb(248, 117, 29);
 }
+
+.heading_div2 {
+    font-size: 17px;
+    float: none;
+}
+
+.result_para_tag {
+    box-shadow: 5px 5px 5px rgb(243, 207, 2);
+    font-size: 17px;
+}
+
+.Copyright {
+    font-size: 25px;
+    position: fixed;
+    bottom: 0;
+    text-align: right;
+    background-color: rgb(255, 184, 92);
+    color: rgb(107, 45, 252);
+    width: 100%;
+}
+
+canvas {
+    border: 5px solid rgb(0, 14, 212);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(46, 112, 255);
+    margin-top: 150px;
+}
